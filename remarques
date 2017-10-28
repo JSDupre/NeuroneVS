@@ -1,0 +1,2 @@
+J represente la force de la connexion : va avec la connexion entre chaque neurone (array<array<double>> rempli des differentes valeurs de 
+J (si J>0 alos les neurones sont connectés) et pour chaque neurone un numéro  par(en gros un array<Neurone> de base)
