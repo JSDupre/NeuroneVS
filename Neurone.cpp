@@ -18,7 +18,7 @@ using namespace std;
 					spike=true;
 				} 
 				
-				else if(not SpikesTimeInNumberOfTimeIncrement_.empty() and (localClock_-SpikesTimeInNumberOfTimeIncrement_.back())<=RefractoryTimeInTimeIncrement) //on regarde le temps ecoulé depuis le dernier spike
+				else if(!SpikesTimeInNumberOfTimeIncrement_.empty() && (localClock_-SpikesTimeInNumberOfTimeIncrement_.back())<=RefractoryTimeInTimeIncrement) //on regarde le temps ecoulé depuis le dernier spike
 				{
 					membranePotential_=RefractoryPotential;
 				} 

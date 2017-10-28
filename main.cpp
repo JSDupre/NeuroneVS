@@ -7,7 +7,7 @@
 using namespace std;
 
 bool isInIntervalle(double ToTest,double Inf,double Sup){
-	bool x(ToTest>=Inf and ToTest<Sup);
+	bool x(ToTest>=Inf && ToTest<Sup);
 	return x;
 }
 void recordValue(Neurone const& n,double time,ofstream& out)
@@ -63,9 +63,9 @@ int main() {
 		Connection c(ptr,0.01);
 		vector<Connection> co;
 		co.push_back(c);
-		if(not co.empty()){cerr<<"pas vide"<<endl;}
+		if(!co.empty()){cerr<<"pas vide"<<endl;}
 		n1.setConnections(co);
-		if(not (n1.getConnections()).empty()){cerr<<"pas vide"<<endl;}
+		if(!(n1.getConnections()).empty()){cerr<<"pas vide"<<endl;}
 		//cerr<<(((n1.getConnections())[0]).getPost())->getMembranePotential()<<endl;
 	//fin initialisations
 		while (clock<TotalNumberOfTimeIncrement){

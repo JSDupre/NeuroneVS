@@ -4,19 +4,19 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/INTRANET/dupre/myfiles/infoBA3/S2/Connection.cpp" "/home/INTRANET/dupre/myfiles/infoBA3/S2/CMakeFiles/Neurone.dir/Connection.cpp.o"
-  "/home/INTRANET/dupre/myfiles/infoBA3/S2/Neurone.cpp" "/home/INTRANET/dupre/myfiles/infoBA3/S2/CMakeFiles/Neurone.dir/Neurone.cpp.o"
-  "/home/INTRANET/dupre/myfiles/infoBA3/S2/main.cpp" "/home/INTRANET/dupre/myfiles/infoBA3/S2/CMakeFiles/Neurone.dir/main.cpp.o"
+  "C:/Users/dupre/source/Neurone/Connection.cpp" "C:/Users/dupre/source/Neurone/CMakeFiles/Neurone.dir/Connection.cpp.obj"
+  "C:/Users/dupre/source/Neurone/Neurone.cpp" "C:/Users/dupre/source/Neurone/CMakeFiles/Neurone.dir/Neurone.cpp.obj"
+  "C:/Users/dupre/source/Neurone/main.cpp" "C:/Users/dupre/source/Neurone/CMakeFiles/Neurone.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
-# The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
-  )
-set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
-set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
-set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

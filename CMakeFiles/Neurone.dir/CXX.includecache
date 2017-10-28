@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,37 +6,37 @@
 
 #IncludeRegexTransform: 
 
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Connection.cpp
+C:/Users/dupre/source/Neurone/Connection.cpp
 Connection.hpp
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Connection.hpp
+C:/Users/dupre/source/Neurone/Connection.hpp
 
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Connection.hpp
+C:/Users/dupre/source/Neurone/Connection.hpp
 
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Constants.hpp
+C:/Users/dupre/source/Neurone/Constants.hpp
 
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Neurone.cpp
+C:/Users/dupre/source/Neurone/Neurone.cpp
 iostream
 -
 Neurone.hpp
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Neurone.hpp
+C:/Users/dupre/source/Neurone/Neurone.hpp
 cmath
 -
 
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Neurone.hpp
+C:/Users/dupre/source/Neurone/Neurone.hpp
 iostream
 -
 vector
 -
 Connection.hpp
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Connection.hpp
+C:/Users/dupre/source/Neurone/Connection.hpp
 Constants.hpp
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Constants.hpp
+C:/Users/dupre/source/Neurone/Constants.hpp
 
-/home/INTRANET/dupre/myfiles/infoBA3/S2/main.cpp
+C:/Users/dupre/source/Neurone/main.cpp
 iostream
 -
 Neurone.hpp
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Neurone.hpp
+C:/Users/dupre/source/Neurone/Neurone.hpp
 fstream
 -
 iomanip
@@ -44,5 +44,5 @@ iomanip
 vector
 -
 Connection.hpp
-/home/INTRANET/dupre/myfiles/infoBA3/S2/Connection.hpp
+C:/Users/dupre/source/Neurone/Connection.hpp
 

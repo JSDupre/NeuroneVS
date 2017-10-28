@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dupre\source\Neurone\CMakeFiles\30ffb4c20821ff0f2cef61e5dcf30d44\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B74A9CF5-A2C9-3751-9F46-B913619539D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

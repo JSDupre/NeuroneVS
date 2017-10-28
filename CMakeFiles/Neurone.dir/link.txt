@@ -1,1 +1,0 @@
-/usr/bin/c++   -O3 -std=c++11   CMakeFiles/Neurone.dir/Neurone.cpp.o CMakeFiles/Neurone.dir/Connection.cpp.o CMakeFiles/Neurone.dir/main.cpp.o  -o Neurone -rdynamic 
